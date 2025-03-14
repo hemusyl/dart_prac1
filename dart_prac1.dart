@@ -10,5 +10,6 @@ class Exmaple{
 class School{
   int Teacher = 30;
   int Student = 450;
+  int staff = 7;
 
 }
