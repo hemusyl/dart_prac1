@@ -18,9 +18,3 @@ void main() {
     print('Students $index name : ${students[index]}');
   }
 }
-
-
-
-
-
-
