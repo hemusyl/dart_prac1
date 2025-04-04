@@ -1,6 +1,6 @@
 void main() {
   Car myCar = Car();
-  myCar.setSpeed(80);
+  myCar.setSpeed(70);
   myCar.move();
 }
 
