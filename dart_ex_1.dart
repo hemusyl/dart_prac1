@@ -15,7 +15,6 @@ void main() {
     double average = scores.reduce((a, b) => a + b) / scores.length;
     studentAverages[name] = average;
   }
-
   // Sort the map by average score
   var sortedEntries = studentAverages.entries.toList()
     ..sort((a, b) => b.value.compareTo(a.value));
